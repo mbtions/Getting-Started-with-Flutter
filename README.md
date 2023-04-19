@@ -10,8 +10,8 @@ The first alpha version of Flutter was released in May 2017.
 - Flutter is *not a language*; it is an **SDK**.  
 - Flutter apps use the Dart programming language for creating an app.  
 
-  **Q. How does Flutter provide natively compiled applications?**
-  Flutter uses Dart programmong language which provides support for native applications development.
+  > **Q. How does Flutter provide natively compiled applications?**  
+  > Flutter uses Dart programmong language which provides support for native applications development.
   
 ## What is Dart?
 Dart is a client-optimized language for fast apps on any platform.  
