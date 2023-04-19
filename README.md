@@ -16,9 +16,11 @@ The first alpha version of Flutter was released in May 2017.
 ## What is Dart?
 Dart is a client-optimized language for fast apps on any platform.  
 It is free and open source, developed by Google in 2011.
-1. **Optimized for UI:** Mature and complete async-await for user interfaces containing event-driven code, paired with isolate-based concurrency
-A programming language optimized for building user interfaces with features such as sound null safety, the spread operator for expanding collections, and collection if for customizing UI for each platform
-A programming language that is easy to learn, with a familiar syntax.
+
+1. **Optimized for UI:**
+ - Mature and complete async-await for user interfaces containing event-driven code, paired with isolate-based concurrency
+ - A programming language optimized for building user interfaces with features such as sound null safety, the spread operator for expanding collections, and collection if for customizing UI for each platform
+ - A programming language that is easy to learn, with a familiar syntax.
 
 2. **Productive Development:** 
   - Make changes to your source code iteratively, using hot reload to instantly see the effect in the running app
